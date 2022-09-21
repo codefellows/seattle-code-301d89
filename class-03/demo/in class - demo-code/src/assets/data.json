@@ -1,0 +1,27 @@
+[
+    {
+        "_id":"01",
+        "imgUrl":"https://via.placeholder.com/286x180",
+        "description":"First beast!"
+    },
+    {
+        "_id":"02",
+        "imgUrl":"https://via.placeholder.com/286x180",
+        "description":"Second beast!"
+    },
+    {
+        "_id":"03",
+        "imgUrl":"https://via.placeholder.com/286x180",
+        "description":"Third beast!"
+    },
+    {
+        "_id":"04",
+        "imgUrl":"https://via.placeholder.com/286x180",
+        "description":"Fourth beast!"
+    },
+    {
+        "_id":"05",
+        "imgUrl":"https://via.placeholder.com/286x180",
+        "description":"Fifth beast!"
+    }
+]

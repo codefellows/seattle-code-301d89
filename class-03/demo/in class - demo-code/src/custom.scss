@@ -1,0 +1,9 @@
+// 1. Remember to: $ npm install sass
+// 2. Update colors in a file like this
+// 3. Import this file in App.js
+
+// change the primary color to green
+$primary: rgb(96, 215, 96);
+$secondary: purple;
+
+@import 'bootstrap/scss/bootstrap.scss';
