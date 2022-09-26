@@ -1,15 +1,15 @@
 # Asynchronous Code and Third Party APIs
 
 ## In Class Links & Resources
-https://replit.com/@AdamOwada/301d89-92622-Class-06#index.js
-https://docs.google.com/presentation/d/1qkTZkrg72FD9zNudFIZ3Icf8T-8JlEKkW4caLpVSLtg/edit?usp=sharing
-http://latentflip.com/loupe
+- https://replit.com/@AdamOwada/301d89-92622-Class-06#index.js
+- https://docs.google.com/presentation/d/1qkTZkrg72FD9zNudFIZ3Icf8T-8JlEKkW4caLpVSLtg/edit?usp=sharing
+- http://latentflip.com/loupe
 
 Video on asynchronous JS:
-https://www.youtube.com/watch?v=rivBfgaEyWQ
+- https://www.youtube.com/watch?v=rivBfgaEyWQ
 
 Video on event loop (also in reading):
-https://www.youtube.com/watch?v=8aGhZQkoFbQ
+- https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
 
