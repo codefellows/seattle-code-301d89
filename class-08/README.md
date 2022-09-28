@@ -1,5 +1,20 @@
 # APIs
 
+## Repl.it, Resouces, Warm up
+Housekeeping Items/Agenda:
+  - https://replit.com/@AdamOwada/301d89-92822-Class-08#index.js
+Warm up:
+  - https://replit.com/@AdamOwada/301d89-92822-Class-08-Warm-Up#src/App.jsx
+Warm up solution:
+  - https://replit.com/@AdamOwada/301d89-92822-Class-08-Warm-Up-Solution#src/App.jsx
+
+#### Regex
+- https://regex101.com/
+- https://regexone.com/lesson/introduction_abcs
+
+#### Powerpoint
+- https://docs.google.com/presentation/d/1qkTZkrg72FD9zNudFIZ3Icf8T-8JlEKkW4caLpVSLtg/edit?usp=sharing
+
 ## Overview
 
 Today we will use our express server to request information from third party APIs to send to the front-end.
