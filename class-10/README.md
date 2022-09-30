@@ -1,5 +1,9 @@
 # Persistence
 
+## Repl.it & Resources
+- https://replit.com/@AdamOwada/301d89-93022-Class-10#index.js
+- Debugging Mental Checklist: 
+
 ## Overview
 
 Today we will talk about in-memory storage as well as dive deeper into modularization and refactorization.
