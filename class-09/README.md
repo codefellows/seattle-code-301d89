@@ -1,5 +1,10 @@
 # Advanced Topics
 
+## Repl.it
+- https://replit.com/@AdamOwada/301d89-92922-Class-09#index.js
+- https://replit.com/@AdamOwada/301d89-Promises#index.js
+- https://replit.com/@AdamOwada/301d89-Callback-Hell#index.js
+
 ## Overview
 
 Today we will dive a little bit deeper into Express and higher level programming in general, covering the following topics:
