@@ -2,7 +2,7 @@
 
 ## Repl.it & Resources
 - https://replit.com/@AdamOwada/301d89-93022-Class-10#index.js
-- Debugging Mental Checklist: 
+- Debugging Mental Checklist: https://github.com/codefellows/seattle-code-301d89/tree/main/class-10/demo/in%20class%20demo/backend
 
 ## Overview
 
