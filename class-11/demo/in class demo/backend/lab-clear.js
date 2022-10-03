@@ -3,14 +3,16 @@
 require('dotenv').config();
 const mongoose = require('mongoose');
 
+// Check name
 mongoose.connect(process.env.DB_URL);
 
-const Cat = require('./models/cat');
+// Check name
+const Book = require('./models/book');
 
 async function clear() {
   try {
-    await Cat.deleteMany({});
-    console.log('cats cleared from DB');
+    await Book.deleteMany({});
+    console.log('books cleared from DB');
   } catch (err) {
     console.error(err);
   } finally {
