@@ -1,5 +1,8 @@
 # Creating and Deleting Resources
 
+## Repl.it
+- https://replit.com/@AdamOwada/301d89-10423-Class-12#index.js
+
 ## Overview
 
 Today we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. We will discuss how to send a POST request and save that information in a Mongo database and a DELETE request to remove information from the database.
