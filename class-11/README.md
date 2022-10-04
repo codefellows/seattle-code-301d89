@@ -3,6 +3,9 @@
 ## Repl.it
 - https://replit.com/@AdamOwada/301d89-10322-Class-11#index.js
 
+## Powerpoint
+- https://docs.google.com/presentation/d/1lObLoehQadWKYb40SmSK99VIFuyOwqpVsHKTl8Okhgc/edit?usp=sharing
+
 ## Overview
 
 Today is the first day of our new project, a mobile-only book collection. You will be gradually working towards a full-scale application, complete with an express server, persistence in a Mongo database, authentication, and the ability to view, add, update and delete books from your React front end.

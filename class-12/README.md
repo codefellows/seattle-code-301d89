@@ -3,6 +3,9 @@
 ## Repl.it
 - https://replit.com/@AdamOwada/301d89-10423-Class-12#index.js
 
+## Powerpoint
+- https://docs.google.com/presentation/d/1lObLoehQadWKYb40SmSK99VIFuyOwqpVsHKTl8Okhgc/edit?usp=sharing
+
 ## Overview
 
 Today we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. We will discuss how to send a POST request and save that information in a Mongo database and a DELETE request to remove information from the database.
