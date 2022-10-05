@@ -1,5 +1,9 @@
 # Updating Resources
 
+## Repl.it & Resources
+- https://replit.com/@AdamOwada/301d89-10522-Class-13#index.js
+- Debugging Doc: https://docs.google.com/document/d/1EVASjitdMJsKft8uUT12ItBh0IDfoeCcnMYFVmXSnH8/edit?usp=sharing
+
 ## DEI Reminder
 
 In our next class we will discuss Diversity, Equity and Inclusion.  Be sure to complete [the reading assignment](https://codefellows.github.io/code-301-guide/curriculum/class-14/DISCUSSION) before class begins in order to achieve full credit for the activity.
